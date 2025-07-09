@@ -9,29 +9,27 @@
 
 ### 🎯 Objective
 
-This repository is a focused 9-day sprint to practice **LeetCode-style coding questions** tailored specifically for **Design Verification (DV)** interviews. These questions align with real-world scenarios from UVM testbenches, AXI protocol tracking, scoreboard comparisons, and constrained random behaviors.
+This repository contains **LeetCode-style coding questions** designed for **Design Verification (DV)** engineers. Each problem aligns with real-world scenarios commonly encountered in UVM environments, such as AXI protocol tracking, scoreboard validation, transaction flow, and bit-level manipulation.
 
 ---
 
 ### 📌 Who This Is For
 
 - ASIC/SoC Design Verification Engineers
-- Candidates preparing for interviews at **NVIDIA, Meta, Google, AMD**, etc.
-- Engineers seeking to sharpen their **algorithmic thinking** within a verification context
+- Engineers aiming to strengthen their **algorithmic problem-solving** in a verification setting
 
 ---
 
 ### 📁 Folder Structure
 
 ```bash
-leetcode-for-verification/
-├── Day01_FirstUnackedTxn/
+leetcode-for-asic-verification/
+├── Problem_001_FirstUnackedTxn/
 │   ├── problem.md
 │   ├── solution.py
 │   └── notes.txt
-├── Day02_Bitmasking_Check/
+├── Problem_002_BitfieldExtract/
 │   ├── problem.md
 │   └── solution.py
-...
+├── ...
 ├── README.md
-
