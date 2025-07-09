@@ -1,2 +1,6 @@
+# Treat .sv and .svh files as SystemVerilog
 *.sv linguist-language=SystemVerilog
 *.svh linguist-language=SystemVerilog
+
+# Treat Python files correctly
+*.py linguist-language=Python
