@@ -26,7 +26,8 @@ This repository contains **LeetCode-style coding questions** designed for **Desi
 leetcode-for-asic-verification/
 ├── Problem_001_FirstUnackedTxn/
 │   ├── problem.md
-│   ├── solution.py
+│   ├── solution.sv       //SystemVerilog Solution
+│   ├── solution.py       //Python Solution
 │   └── notes.txt
 ├── Problem_002_BitfieldExtract/
 │   ├── problem.md
